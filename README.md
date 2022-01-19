@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[![Pablo's GitHub stats](https://github-readme-stats.vercel.app/api?username=pgonzalezs1999)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **pgonzalezs1999/pgonzalezs1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
