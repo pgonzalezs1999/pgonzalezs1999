@@ -1,1 +1,1 @@
-[![Lenguajes utilizados](https://github-readme-stats.vercel.app/api/wakatime?username=pgonzalezs1999)](https://github.com/anuraghazra/github-readme-stats)
+[![Lenguajes utilizados](https://github-readme-stats.vercel.app/api/top-langs/?username=pgonzalezs1999&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
