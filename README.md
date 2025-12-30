@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pgonzalezs1999&theme=vision-friendly-dark&hide=jupyter%20notebook,html,css,blade&layout=compact&card_width=325)
+  ![Most used languages](https://my-readme-stats-six.vercel.app/api/top-langs/?username=pgonzalezs1999&theme=vision-friendly-dark&hide=jupyter%20notebook,html,css,blade&layout=compact&card_width=325)
 
   ### Preferred stack / currently developing with
   ![Kotlin](https://custom-icon-badges.demolab.com/badge/KOTLIN-%237F52FF.svg?logo=kotlin&logoColor=white)
